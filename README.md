@@ -1,3 +1,3 @@
 # SifakaUI
 
-A description of this package.
+SwiftUI component library
