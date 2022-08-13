@@ -9,7 +9,7 @@ import SwiftUI
 /**
  A container view with a configurable title bar along the top.
  */
-public struct TitlePane<C: View, BG: View> : View {
+public struct TitlePane<C: View> : View {
     
     let text: String
     var titleForeground: Color
